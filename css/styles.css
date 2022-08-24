@@ -6,6 +6,7 @@ body {
   background: hsl(210, 46%, 95%);
   font-family: Barlow Semi Condensed, Arial, Helvetica, sans-serif;
   font-size: 13px;
+  padding: 30px 0;
 }
 
 .container {
@@ -110,9 +111,10 @@ p {
   body {
     align-items: center;
     display: flex;
-    height: 100vh;
+    /* height: 100vh; */
     justify-content: center;
     width: 100vw;
+    /* padding-bottom: 20px; */
   }
 
   .container {
