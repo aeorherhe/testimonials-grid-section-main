@@ -48,6 +48,14 @@ p {
 .logo-text p {
   font-size: 16px;
   color: hsl(0, 0%, 81%);
+  margin-right: 40px;
+}
+
+.daniel {
+  background: url(../images/bg-pattern-quotation.svg);
+  background-size: 130px;
+  background-repeat: no-repeat;
+  background-position: 90% 1px;
 }
 
 /* Styling the boxes */
